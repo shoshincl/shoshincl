@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shoshincl
+- 👀 Retired web developer
+- 🌱 Turned poker pro
+- 💞️ Working on personal side projects
+- 📫 @shoshincl on instagram/twitter
