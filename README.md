@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shoshincl
-- 👀 Retired web developer
-- 🌱 Turned poker pro
+- 👀 Fullstack Product Developer
+- 🌱 Startups and Innovation
 - 💞️ Working on personal side projects
 - 📫 @shoshincl on instagram/twitter
