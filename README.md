@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shoshincl
 - 👀 Fullstack Product Developer
+- 🔧 JS, TS, Node, Apollo GraphQL, SQL/NOSQL, React, TailwindCSS
 - 🌱 Startups and Innovation
 - 💞️ Working on personal side projects
 - 📫 @shoshincl on instagram/twitter
